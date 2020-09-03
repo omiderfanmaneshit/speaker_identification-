@@ -1,0 +1,4 @@
+The task for this project is to build a classification model capable of identifying the speaker of each recording in the evaluation set.
+Please note that the recordings for the evaluation set have been extracted from different chapters/books
+than those in the development set. As such, overfitting will be particularly penalized in this context (a
+model that learns to identify the “book” rather than the speaker will have troubles generalizing to neverbefore-seen recordings).
